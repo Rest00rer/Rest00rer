@@ -20,12 +20,12 @@ I build and evolve production applications, web products and integrations. My pr
 ### Project Voice — self-hosted voice room
 **Private project.** A compact service for voice rooms, text chat, participant roles, moderation and chat history, built around a web client and real-time audio infrastructure.
 
-![Project Voice](https://restworks.pro/assets/images/portfolio/project_voice_1.webp)
+![Project Voice](./project_voice_1.webp)
 
 ### Omni Gold Seed — Telegram Mini App game
 **Private project.** An interactive contest game for Magnit Omni: scenario-based quiz flow, animated screens, sound controls, Telegram Mini App integration and result collection through Google Sheets.
 
-![Omni Gold Seed](https://restworks.pro/assets/images/portfolio/omnigoldseed_1.png)
+![Omni Gold Seed](./omnigoldseed_1.png)
 
 ### Amotis Jewelry
 **Private project.** A responsive workshop website with filtering, lightbox gallery and synchronized image presentation, built with React, Vite and TypeScript.
@@ -33,7 +33,7 @@ I build and evolve production applications, web products and integrations. My pr
 ### RestTrade
 **Private product.** A digital goods marketplace with catalog, protected transactions, user accounts and operational tooling. Product overview and selected screens are available in the [portfolio](https://restworks.pro).
 
-![RestTrade](https://restworks.pro/assets/images/portfolio/resttrade_2.webp)
+![RestTrade](./resttrade_2.webp)
 
 ## Public repositories
 
