@@ -2,36 +2,49 @@
 
 **Flutter/Dart developer focused on mobile, web and product development.**
 
-I build and evolve production applications, web products and integrations. My primary stack is Flutter/Dart; I also work with TypeScript, React, Next.js and Node.js when the product requires it. I use AI coding tools as development accelerators, while keeping architecture, review, testing and release quality under my control.
+I build and evolve production applications and product interfaces. My core stack is Flutter/Dart; I also work with TypeScript, React, Next.js and Node.js when the product requires it. I use AI coding tools as development accelerators, while keeping architecture, review, testing and release quality under my control.
 
 [Portfolio](https://restworks.pro) · [GitHub](https://github.com/Rest00rer) · [Contact](https://restworks.pro/ru/contacts)
 
-## Selected projects
+## Selected work
+
+### Homio — real-estate product platform
+**K-Digital / private client work.** Worked on a platform for developers and real-estate agents: document imports with AI-assisted extraction, AI chat and recommendations, project and unit cards, master plans, localization, notifications, PDF/media workflows and QA releases. This is the strongest example of my recent TypeScript, React, Next.js, Node.js and PostgreSQL work.
+
+[Open the Homio case study](https://restworks.pro/ru/projects/kd_homio)
+
+### Vezdevoz — transport and logistics products
+**K-Digital / private client work.** Developed driver and client applications with trips, navigation, maps, real-time movement tracking, WebSocket coordinate delivery, a local data queue and status notifications.
+
+[Open the Vezdevoz Driver case study](https://restworks.pro/ru/projects/kd_vezdevoz_driver) · [Client app](https://restworks.pro/ru/projects/kd_vezdevoz_app)
+
+### Skorotut — delivery platform
+**K-Digital / private client work.** Developed a food and goods delivery service with catalog, cart, payments, order tracking, deep links, analytics and configurable notifications. Also worked on the partner and courier workspace with routes, statuses, sales statistics, maps and error monitoring.
+
+[Open the Skorotut case study](https://restworks.pro/ru/projects/kd_skorotut_core) · [Partner app](https://restworks.pro/ru/projects/kd_skorotut_partner)
+
+### TCCG Mall and Parking — retail and loyalty products
+**K-Digital / private client work.** Worked on a shopping mall application with tenant maps, events and loyalty features, as well as a parking app with subscriptions, WebView payments, CRM integration and reminders.
+
+[Mall case study](https://restworks.pro/ru/projects/kd_tccg_app) · [Parking case study](https://restworks.pro/ru/projects/kd_tccg_parking)
 
 ### RestTrade — digital goods marketplace
-**Private product.** A marketplace with catalog, protected transactions, user accounts and operational tooling. Selected screens are included below; the full product overview is in the [portfolio](https://restworks.pro).
+**Private product.** Designed and built a C2C marketplace with catalog, deals, chat, seller cabinet, two-stage payments, an admin panel and Telegram notifications.
+
+[Open the RestTrade case study](https://restworks.pro/ru/projects/solo_resttrade)
 
 ![RestTrade](./resttrade_2.webp)
 
 ### Project Voice — real-time voice room
-**Private project.** A self-hosted service for voice rooms, text chat, participant roles, moderation and chat history, built around a web client and real-time audio infrastructure.
+**Private project.** Built a self-hosted service for voice rooms, text chat, participant roles, moderation and chat history, with WebRTC audio infrastructure and Docker deployment.
+
+[Open the Project Voice case study](https://restworks.pro/ru/projects/solo_project_voice)
 
 ![Project Voice](./project_voice_1.webp)
 
-### Kann Dealer — dealer portal
-**Private / client work.** Flutter Web and Dart backend MVP for catalog, warehouses, orders, invoices and access links, with an integration to MoySklad API.
+## Additional work
 
-### Vezdevoz — transport and logistics products
-**Private / client work.** Driver and client applications with maps, trip statuses, movement tracking and operational workflows. Interface screenshots are available in the [portfolio](https://restworks.pro).
-
-### Omni Gold Seed — Telegram Mini App game
-**Private project.** An interactive contest game for Magnit Omni with scenario-based quiz flow, animations, sound controls, Telegram Mini App integration and result collection through Google Sheets.
-
-![Omni Gold Seed](./omnigoldseed_1.png)
-
-## Commercial work
-
-**K-Digital — private client work.** Developed and supported mobile and web products, integrations, payments, maps and geolocation, notifications, WebSockets, native iOS/Android capabilities and release workflows. Details are kept private and can be discussed where disclosure is permitted.
+My portfolio also includes smaller freelance and experimental projects. They are kept on the [portfolio website](https://restworks.pro) so this profile can stay focused on the work most relevant to a product development team.
 
 ## Public repositories
 
