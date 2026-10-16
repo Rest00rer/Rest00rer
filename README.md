@@ -14,7 +14,7 @@
 
 [Открыть кейс Homio](https://restworks.pro/ru/projects/kd_homio)
 
-![Homio](./homio_projects.png)
+<p><img src="./homio_projects.png" alt="Homio projects" width="320"> <img src="./homio_project_detail.png" alt="Homio project detail" width="320"> <img src="./homio_courses.png" alt="Homio courses" width="320"></p>
 
 ### Vezdevoz — транспортные и логистические приложения
 
@@ -22,7 +22,7 @@
 
 [Кейс Vezdevoz Driver](https://restworks.pro/ru/projects/kd_vezdevoz_driver) · [Клиентское приложение](https://restworks.pro/ru/projects/kd_vezdevoz_app)
 
-![Vezdevoz](./vezdevozdriver_1.webp)
+<p><img src="./vezdevozdriver_1.webp" alt="Vezdevoz driver" width="190"> <img src="./vezdevozdriver_2.webp" alt="Vezdevoz driver routes" width="190"> <img src="./vezdevoz_1.webp" alt="Vezdevoz client" width="190"></p>
 
 ### Skorotut — сервис доставки
 
@@ -30,7 +30,7 @@
 
 [Кейс Skorotut](https://restworks.pro/ru/projects/kd_skorotut_core) · [Кабинет партнёров](https://restworks.pro/ru/projects/kd_skorotut_partner)
 
-![Skorotut](./skorotut_1.webp)
+<p><img src="./skorotut_1.webp" alt="Skorotut" width="190"> <img src="./skorotut_2.webp" alt="Skorotut catalog" width="190"> <img src="./skorotutpartner_1.webp" alt="Skorotut partner cabinet" width="190"></p>
 
 ### TCCG Mall и Parking — приложения торгового центра
 
@@ -38,7 +38,7 @@
 
 [Кейс TCCG Mall](https://restworks.pro/ru/projects/kd_tccg_app) · [Кейс TCCG Parking](https://restworks.pro/ru/projects/kd_tccg_parking)
 
-![TCCG Mall](./cg_1.webp)
+<p><img src="./cg_1.webp" alt="TCCG Mall" width="300"> <img src="./cg_2.webp" alt="TCCG Parking" width="300"></p>
 
 ### RestTrade — маркетплейс цифровых товаров
 
@@ -46,7 +46,7 @@
 
 [Открыть кейс RestTrade](https://restworks.pro/ru/projects/solo_resttrade)
 
-![RestTrade](./resttrade_2.webp)
+<p><img src="./resttrade_2.webp" alt="RestTrade" width="320"></p>
 
 ### Project Voice — голосовая комната в реальном времени
 
@@ -54,7 +54,7 @@
 
 [Открыть кейс Project Voice](https://restworks.pro/ru/projects/solo_project_voice)
 
-![Project Voice](./project_voice_1.webp)
+<p><img src="./project_voice_1.webp" alt="Project Voice" width="320"></p>
 
 ## Другие проекты
 
