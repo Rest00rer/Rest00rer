@@ -6,52 +6,48 @@ I build and evolve production applications, web products and integrations. My pr
 
 [Portfolio](https://restworks.pro) · [GitHub](https://github.com/Rest00rer) · [Contact](https://restworks.pro/ru/contacts)
 
-## Selected work
+## Selected projects
 
-### K-Digital — commercial products
-**Private / client work.** Mobile and web products developed around real business workflows. Contributions include Flutter/Dart applications, TypeScript/React/Next.js services, backend integrations, payments, maps and geolocation, push notifications, WebSocket-based features, native iOS/Android capabilities and release support.
+### RestTrade — digital goods marketplace
+**Private product.** A marketplace with catalog, protected transactions, user accounts and operational tooling. Selected screens are included below; the full product overview is in the [portfolio](https://restworks.pro).
 
-### Vezdevoz — transport and logistics products
-**Private / client work.** Driver and client applications with maps, trip statuses, movement tracking and operational workflows. Selected interface screenshots are available in the [portfolio](https://restworks.pro).
+![RestTrade](./resttrade_2.webp)
+
+### Project Voice — real-time voice room
+**Private project.** A self-hosted service for voice rooms, text chat, participant roles, moderation and chat history, built around a web client and real-time audio infrastructure.
+
+![Project Voice](./project_voice_1.webp)
 
 ### Kann Dealer — dealer portal
 **Private / client work.** Flutter Web and Dart backend MVP for catalog, warehouses, orders, invoices and access links, with an integration to MoySklad API.
 
-### Project Voice — self-hosted voice room
-**Private project.** A compact service for voice rooms, text chat, participant roles, moderation and chat history, built around a web client and real-time audio infrastructure.
-
-![Project Voice](./project_voice_1.webp)
+### Vezdevoz — transport and logistics products
+**Private / client work.** Driver and client applications with maps, trip statuses, movement tracking and operational workflows. Interface screenshots are available in the [portfolio](https://restworks.pro).
 
 ### Omni Gold Seed — Telegram Mini App game
-**Private project.** An interactive contest game for Magnit Omni: scenario-based quiz flow, animated screens, sound controls, Telegram Mini App integration and result collection through Google Sheets.
+**Private project.** An interactive contest game for Magnit Omni with scenario-based quiz flow, animations, sound controls, Telegram Mini App integration and result collection through Google Sheets.
 
 ![Omni Gold Seed](./omnigoldseed_1.png)
 
-### Amotis Jewelry
-**Private project.** A responsive workshop website with filtering, lightbox gallery and synchronized image presentation, built with React, Vite and TypeScript.
+## Commercial work
 
-### RestTrade
-**Private product.** A digital goods marketplace with catalog, protected transactions, user accounts and operational tooling. Product overview and selected screens are available in the [portfolio](https://restworks.pro).
-
-![RestTrade](./resttrade_2.webp)
+**K-Digital — private client work.** Developed and supported mobile and web products, integrations, payments, maps and geolocation, notifications, WebSockets, native iOS/Android capabilities and release workflows. Details are kept private and can be discussed where disclosure is permitted.
 
 ## Public repositories
 
-- [yookassa-payments-flutter-sdk](https://github.com/Rest00rer/yookassa-payments-flutter-sdk) — Flutter integration documentation and examples for YooKassa payments.
+- [yookassa-payments-flutter-sdk](https://github.com/Rest00rer/yookassa-payments-flutter-sdk) — Flutter payment integration documentation and examples.
 - [yookassa-payments-flutter](https://github.com/Rest00rer/yookassa-payments-flutter) — Flutter payment integration project.
 - [green-api-test](https://github.com/Rest00rer/green-api-test) — TypeScript/Vite chat client test project.
 
-Forked repositories on my profile are experiments, integrations or local changes based on upstream open-source projects. They are not presented as original products.
+Other public repositories on this account are upstream forks kept for reference. They are not presented as original products or portfolio projects.
 
-## About private work
+## Confidentiality
 
-Commercial source code, credentials, customer data and internal metrics are not published. Private projects are represented by a concise case-study summary and selected public-facing screenshots; deeper technical details can be discussed or demonstrated during an interview when disclosure is permitted.
+Commercial source code, credentials, customer data and internal metrics are not published. Private work is represented by concise case-study summaries and selected screenshots. Deeper technical details can be shared during an interview when disclosure is permitted.
 
 ## What I can show
 
 - architecture and key technical decisions;
-- a live demo or screen recording where available;
+- live demos or screen recordings where available;
 - code walkthroughs of public repositories;
 - examples of integrations, testing and release workflows.
-
-> The portfolio is intentionally selective: it highlights the work I can explain clearly and keeps confidential client material private.
