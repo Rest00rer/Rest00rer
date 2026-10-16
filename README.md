@@ -1,66 +1,66 @@
-# Vladislav Belyaev
+# Владислав Беляев
 
-**Flutter/Dart developer focused on mobile, web and product development.**
+**Разработчик мобильных и веб-продуктов. Основной стек — Flutter/Dart.**
 
-I build and evolve production applications and product interfaces. My core stack is Flutter/Dart; I also work with TypeScript, React, Next.js and Node.js when the product requires it. I use AI coding tools as development accelerators, while keeping architecture, review, testing and release quality under my control.
+Разрабатываю и развиваю коммерческие приложения, веб-продукты и интеграции. Основной профиль — Flutter/Dart; также работаю с TypeScript, React, Next.js и Node.js, когда этого требует продукт. Использую AI-инструменты как ускоритель разработки, самостоятельно отвечая за архитектуру, проверку кода, тестирование и качество релизов.
 
-[Portfolio](https://restworks.pro) · [GitHub](https://github.com/Rest00rer) · [Contact](https://restworks.pro/ru/contacts)
+[Портфолио](https://restworks.pro) · [GitHub](https://github.com/Rest00rer) · [Контакты](https://restworks.pro/ru/contacts)
 
-## Selected work
+## Избранные проекты
 
-### Homio — real-estate product platform
-**K-Digital / private client work.** Worked on a platform for developers and real-estate agents: document imports with AI-assisted extraction, AI chat and recommendations, project and unit cards, master plans, localization, notifications, PDF/media workflows and QA releases. This is the strongest example of my recent TypeScript, React, Next.js, Node.js and PostgreSQL work.
+### Homio — платформа для рынка недвижимости
+**K-Digital / коммерческий проект.** Работал над платформой для девелоперов и агентов: импортом документов с распознаванием данных с помощью AI-инструментов, AI-чатом и подборками, карточками проектов и юнитов, мастер-планами, локализацией, уведомлениями, PDF и медиа. Это главный пример моего недавнего опыта с TypeScript, React, Next.js, Node.js и PostgreSQL.
 
-[Open the Homio case study](https://restworks.pro/ru/projects/kd_homio)
+[Открыть кейс Homio](https://restworks.pro/ru/projects/kd_homio)
 
-### Vezdevoz — transport and logistics products
-**K-Digital / private client work.** Developed driver and client applications with trips, navigation, maps, real-time movement tracking, WebSocket coordinate delivery, a local data queue and status notifications.
+### Vezdevoz — транспортные и логистические приложения
+**K-Digital / коммерческий проект.** Разрабатывал приложения для водителей и клиентов: рейсы, навигация, карты, отслеживание движения в реальном времени, передача координат через WebSocket, локальная очередь данных и уведомления о статусах.
 
-[Open the Vezdevoz Driver case study](https://restworks.pro/ru/projects/kd_vezdevoz_driver) · [Client app](https://restworks.pro/ru/projects/kd_vezdevoz_app)
+[Кейс Vezdevoz Driver](https://restworks.pro/ru/projects/kd_vezdevoz_driver) · [Клиентское приложение](https://restworks.pro/ru/projects/kd_vezdevoz_app)
 
-### Skorotut — delivery platform
-**K-Digital / private client work.** Developed a food and goods delivery service with catalog, cart, payments, order tracking, deep links, analytics and configurable notifications. Also worked on the partner and courier workspace with routes, statuses, sales statistics, maps and error monitoring.
+### Skorotut — сервис доставки
+**K-Digital / коммерческий проект.** Развивал сервис заказа еды и товаров с каталогом, корзиной, оплатой, отслеживанием заказа, deep links, аналитикой и настраиваемыми уведомлениями. Также работал над кабинетом партнёров и курьеров с маршрутами, статусами, картами и мониторингом ошибок.
 
-[Open the Skorotut case study](https://restworks.pro/ru/projects/kd_skorotut_core) · [Partner app](https://restworks.pro/ru/projects/kd_skorotut_partner)
+[Кейс Skorotut](https://restworks.pro/ru/projects/kd_skorotut_core) · [Кабинет партнёров](https://restworks.pro/ru/projects/kd_skorotut_partner)
 
-### TCCG Mall and Parking — retail and loyalty products
-**K-Digital / private client work.** Worked on a shopping mall application with tenant maps, events and loyalty features, as well as a parking app with subscriptions, WebView payments, CRM integration and reminders.
+### TCCG Mall и Parking — приложения торгового центра
+**K-Digital / коммерческий проект.** Работал над приложением торгового центра с картой арендаторов, событиями и программой лояльности, а также над приложением для парковки с абонементами, оплатой через WebView, интеграцией с CRM и уведомлениями.
 
-[Mall case study](https://restworks.pro/ru/projects/kd_tccg_app) · [Parking case study](https://restworks.pro/ru/projects/kd_tccg_parking)
+[Кейс TCCG Mall](https://restworks.pro/ru/projects/kd_tccg_app) · [Кейс TCCG Parking](https://restworks.pro/ru/projects/kd_tccg_parking)
 
-### RestTrade — digital goods marketplace
-**Private product.** Designed and built a C2C marketplace with catalog, deals, chat, seller cabinet, two-stage payments, an admin panel and Telegram notifications.
+### RestTrade — маркетплейс цифровых товаров
+**Собственный продукт.** Спроектировал и собрал C2C-маркетплейс с каталогом, сделками, чатом, кабинетом продавца, двухстадийной оплатой, административной панелью и уведомлениями в Telegram.
 
-[Open the RestTrade case study](https://restworks.pro/ru/projects/solo_resttrade)
+[Открыть кейс RestTrade](https://restworks.pro/ru/projects/solo_resttrade)
 
 ![RestTrade](./resttrade_2.webp)
 
-### Project Voice — real-time voice room
-**Private project.** Built a self-hosted service for voice rooms, text chat, participant roles, moderation and chat history, with WebRTC audio infrastructure and Docker deployment.
+### Project Voice — голосовая комната в реальном времени
+**Собственный проект.** Самостоятельно создал сервис голосовых комнат, текстового чата, ролей участников, модерации и истории сообщений с WebRTC-аудио и развёртыванием через Docker.
 
-[Open the Project Voice case study](https://restworks.pro/ru/projects/solo_project_voice)
+[Открыть кейс Project Voice](https://restworks.pro/ru/projects/solo_project_voice)
 
 ![Project Voice](./project_voice_1.webp)
 
-## Additional work
+## Другие проекты
 
-My portfolio also includes smaller freelance and experimental projects. They are kept on the [portfolio website](https://restworks.pro) so this profile can stay focused on the work most relevant to a product development team.
+В портфолио также собраны небольшие фриланс-проекты и экспериментальные работы. Они доступны на [сайте портфолио](https://restworks.pro), а здесь профиль сфокусирован на проектах, наиболее релевантных для продуктовой команды.
 
-## Public repositories
+## Открытые репозитории
 
-- [yookassa-payments-flutter-sdk](https://github.com/Rest00rer/yookassa-payments-flutter-sdk) — Flutter payment integration documentation and examples.
-- [yookassa-payments-flutter](https://github.com/Rest00rer/yookassa-payments-flutter) — Flutter payment integration project.
-- [green-api-test](https://github.com/Rest00rer/green-api-test) — TypeScript/Vite chat client test project.
+- [yookassa-payments-flutter-sdk](https://github.com/Rest00rer/yookassa-payments-flutter-sdk) — документация и примеры интеграции платежей во Flutter.
+- [yookassa-payments-flutter](https://github.com/Rest00rer/yookassa-payments-flutter) — проект интеграции платежей во Flutter.
+- [green-api-test](https://github.com/Rest00rer/green-api-test) — тестовый чат-клиент на TypeScript и Vite.
 
-Other public repositories on this account are upstream forks kept for reference. They are not presented as original products or portfolio projects.
+Остальные публичные репозитории в профиле являются форками исходных open-source проектов и не представлены как мои самостоятельные продукты.
 
-## Confidentiality
+## Конфиденциальность
 
-Commercial source code, credentials, customer data and internal metrics are not published. Private work is represented by concise case-study summaries and selected screenshots. Deeper technical details can be shared during an interview when disclosure is permitted.
+Исходный код коммерческих проектов, ключи доступа, данные клиентов и внутренние метрики не публикуются. Закрытые проекты представлены краткими описаниями и отдельными скриншотами. Более подробные технические детали могу показать или обсудить на собеседовании, если это допускается условиями проекта.
 
-## What I can show
+## Что могу показать
 
-- architecture and key technical decisions;
-- live demos or screen recordings where available;
-- code walkthroughs of public repositories;
-- examples of integrations, testing and release workflows.
+- архитектуру и ключевые технические решения;
+- демо или запись экрана, если они доступны;
+- разбор кода открытых репозиториев;
+- примеры интеграций, тестирования и подготовки релизов.
